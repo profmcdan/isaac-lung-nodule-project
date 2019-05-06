@@ -1,4 +1,4 @@
-# Automated Detection and Classification of Nodules in Lung CT scans
+# Detection and Classification of Nodules in Lung CT scans
 ## Description
 Lung cancer is the second most common cancer in both men and women that afflicts 225,500 people a year in the United States. Nearly 1 out of 4 cancer deaths are from lung cancer, more than colon, breast, and prostate cancers combined. Early detection of the cancer can allow for early treatment which significantly increases the chances of survival. 
 This project creates an algorithm that automatically detects candidate nodules and predicts the probability that the lung will be diagnosed with cancer within 1 year of the CT scans
