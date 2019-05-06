@@ -50,5 +50,3 @@ https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 
 
 ## About
-
-Mike Huang, huangjmike@gmail.com
